@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @triznylaras
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in learning Mobile Development and Ruby on Rails
 - 💞️ I’m looking to collaborate on many exciting projects
 - 📫 You can reach me at triznylaras@gmail.com
 
